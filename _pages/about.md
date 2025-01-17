@@ -16,4 +16,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate at the University of Amsterdam in the IvI faculty (SIAS group) and ILLC, advised by Erman Acar and Jelle Zuidema. My research is broadly on explainable machine learning or (mechanistic) interpretability of neural networks that impact society. I believe a deeper understanding of neural networks is necessary for many high-stakes domains, which starts with interpreting the model. I hold a MSc in Artificial Intelligence from the University of Amsterdam and a BSc in Technical Computer Science and BSc in Applied Mathematics from the University of Twente. 
+I do a PhD at the University of Amsterdam, advised by Erman Acar and Jelle Zuidema. I work jointly in the IvI faculty (SIAS group) and ILLC. My research is broadly on (mechanistic) interpretability of deep learning models that impact society. I hold a MSc in Artificial Intelligence from the University of Amsterdam and a BSc in Technical Computer Science and BSc in Applied Mathematics from the University of Twente. 
