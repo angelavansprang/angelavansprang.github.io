@@ -6,7 +6,7 @@ subtitle: PhD Candidate, University of Amsterdam
 
 profile:
   align: right
-  image: portret_foto.jpg
+  image: PortretfotoJan2025.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Amsterdam, the Netherlands</p>
