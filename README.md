@@ -1,3 +1,9 @@
+# Install all dependencies
+bundle install
+
+# To serve the website
+bundle exec jekyll serve --livereload
+
 # al-folio
 
 <div align="center">
